@@ -5,6 +5,6 @@
   - Azure Data Scientist Associate 
   - Azure Fundamentals
 - I am master procrastinator, so I occasionally write code to make my life easier. Long live 🐍
-- I am a full-stack .NET developer in the day. 
-- I’m currently learning all about Azure and its data services.
+- I am a full-stack .NET developer / data analyst during the day; doing other business in the night.
+- I’m currently learning many exciting stuff about DevOps with special focus practices enabled by Azure.
 - I’m looking to collaborate on .NET based web applications. I love Python and to use it in data analysis as well.
