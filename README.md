@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mohamdiveten
-- I am a full-stack developer / data engineer from 9 to 5; pursuing other non-techy interests at night and on the weeekends.
+- I am a DevOps Engineer. Ex-full-stack developer / data engineer. I like to pursue other non-techy interests at night and on the weeekends.
 - I am Microsoft Certified:
   - Azure DevOps Engineer Expert
+  - Azure Solutions Architect Expert
   - Azure Data Engineer Associate,
   - Azure Data Analyst Associate
   - Azure Data Scientist Associate 
